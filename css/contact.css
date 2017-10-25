@@ -1,0 +1,20 @@
+.contact-container{
+    margin-top:120px;
+    padding:50px;
+}
+
+.info-map{
+    height:500px;
+    position:relative;
+}
+
+.info{
+    width:50%;
+}
+
+.map{
+    width: 50%;
+    position:absolute;
+    right:0;
+    top:0;
+}
